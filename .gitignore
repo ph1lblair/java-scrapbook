@@ -6,3 +6,6 @@
 /classes/production/java-scrapbook/pblair/CacheWithReadWriteLock.class
 /classes/production/java-scrapbook/pblair/BarrierExample$1Friend.class
 /classes/production/java-scrapbook/pblair/BarrierExample.class
+/classes/production/java-scrapbook/pblair/AtomicCounter$1Decrementer.class
+/classes/production/java-scrapbook/pblair/AtomicCounter$1Incrementer.class
+/classes/production/java-scrapbook/pblair/AtomicCounter.class
