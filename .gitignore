@@ -9,3 +9,7 @@
 /classes/production/java-scrapbook/pblair/AtomicCounter$1Decrementer.class
 /classes/production/java-scrapbook/pblair/AtomicCounter$1Incrementer.class
 /classes/production/java-scrapbook/pblair/AtomicCounter.class
+/classes/production/java-scrapbook/pblair/AtomicCounterExplicit$1Decrementer.class
+/classes/production/java-scrapbook/pblair/AtomicCounterExplicit$1Incrementer.class
+/classes/production/java-scrapbook/pblair/AtomicCounterExplicit$MyAtomicInteger.class
+/classes/production/java-scrapbook/pblair/AtomicCounterExplicit.class
